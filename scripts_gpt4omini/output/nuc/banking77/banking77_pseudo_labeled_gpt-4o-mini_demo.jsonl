@@ -1,1 +1,5 @@
-
+{"text":"My physical card is not working","ground_truth":"card not working","prediction":"card not working","confidence":0.95}
+{"text":"Can you unblock my account?  I entered the PIN wrong.","ground_truth":"pin blocked","prediction":"pin blocked","confidence":0.9}
+{"text":"I need to know what is going on. I'm attempting to purchase a flat and need the money to pay on my initial mortgage payment. I'm only getting an error. Can you find out what's going on and help in making the transfer?","ground_truth":"failed transfer","prediction":"failed transfer","confidence":0.85}
+{"text":"I am unable to prove my identity","ground_truth":"unable to verify identity","prediction":"unable to verify identity","confidence":0.9}
+{"text":"I am still waiting for my card.","ground_truth":"card arrival","prediction":"card delivery estimate","confidence":0.88}
