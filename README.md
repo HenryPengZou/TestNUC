@@ -1,13 +1,18 @@
 # TestNUC: Enhancing Test-Time Computing Approaches and Scaling through Neighboring Unlabeled Data Consistency
 
+[![arXiv](https://img.shields.io/badge/arXiv-TestNUC-b31b1b.svg)](https://arxiv.org/abs/2502.19163)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
+[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
+![Last Commit](https://img.shields.io/github/last-commit/HenryPengZou/TestNUC)
+[![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/TestNUC)](https://github.com/HenryPengZou/TestNUC)
+
 
 <!-- ![Task](code/images/scaling.jpg) -->
-
 
 This repository contains the implementation of the paper:
 > **TestNUC: Enhancing Test-Time Computing Approaches and Scaling through Neighboring Unlabeled Data Consistency** 
 > [[Paper]](https://aclanthology.org/2025.acl-long.1486.pdf) [[ACL Anthology]](https://aclanthology.org/2025.acl-long.1486/) [[arXiv]](https://arxiv.org/abs/2502.19163) <br>
-> The 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025 <br>
+> The 63rd Annual Meeting of the Association for Computational Linguistics, **ACL 2025** <br>
 > Henry Peng Zou, Zhengyao Gu, Yue Zhou, Yankai Chen, Weizhi Zhang, Liancheng Fang, Yibo Wang, Yangning Li, Kay Liu, Philip S. Yu <br>
 
 
@@ -36,6 +41,8 @@ pip install -r requirements.txt
 Simply run the [aggregation_num_unlabeled_data.ipynb](https://github.com/HenryPengZou/TestNUC/blob/main/scripts_gpt4omini/aggregation_num_unlabeled_data.ipynb) notebook to reproduce and visualize test-time scaling results with varying amounts of unlabeled data. 
 
 ## Tutorial
+This section provides a straightforward and efficient way to implement the TestNUC algorithm. As an example, we demonstrate it using gpt4o-mini with NV-Embed-v2 on the Banking77 dataset. You may also apply this approach to other datasets, embedders, and LLMs.
+
 
 ### 1. Obtain Embeddings
 
