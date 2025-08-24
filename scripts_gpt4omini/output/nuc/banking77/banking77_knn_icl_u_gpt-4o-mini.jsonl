@@ -1,0 +1,100 @@
+{"text":"How can I change my old pin to a new one?","ground_truth":"change pin","prediction":"change pin","confidence":0.9}
+{"text":"Is there a charge for cash withdrawals? I always thought it was free.","ground_truth":"cash withdrawal charge","prediction":"cash withdrawal charge","confidence":0.85}
+{"text":"I tried pulling out money at the ATM and it gave me an incorrect amount back.","ground_truth":"wrong amount of cash received","prediction":"wrong amount of cash received","confidence":0.85}
+{"text":"My money is gone. I had topped up recently and saw it was there, but now it's disappeared, what's going on?","ground_truth":"top up reverted","prediction":"balance not updated after bank transfer","confidence":0.85}
+{"text":"It won't let me activate my card.","ground_truth":"activate my card","prediction":"activate my card","confidence":0.85}
+{"text":"Why are top-ups being verified?","ground_truth":"verify top up","prediction":"verify top up","confidence":0.85}
+{"text":"I can't do any business with this virtual card.","ground_truth":"virtual card not working","prediction":"virtual card not working","confidence":0.9}
+{"text":"There is a withdrawal on my account that I don't remember initiating.","ground_truth":"cash withdrawal not recognised","prediction":"transfer not received by recipient","confidence":0.85}
+{"text":"The card payment I attempted to make failed.","ground_truth":"declined card payment","prediction":"declined card payment","confidence":0.9}
+{"text":"What are the steps to get my card back that was kept by the ATM?","ground_truth":"card swallowed","prediction":"card swallowed","confidence":0.9}
+{"text":"Can turn my money into another currency?","ground_truth":"exchange via app","prediction":"exchange via app","confidence":0.85}
+{"text":"Can I get information on the identity checks?","ground_truth":"verify my identity","prediction":"verify my identity","confidence":0.85}
+{"text":"Today I noticed a charge for an ATM withdrawal on my account. Can you please fix this? It's supposed to be no charge.","ground_truth":"cash withdrawal charge","prediction":"cash withdrawal charge","confidence":0.9}
+{"text":"HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?","ground_truth":"reverted card payment?","prediction":"transfer not received by recipient","confidence":0.9}
+{"text":"Can I use my card in another institutions ATM?","ground_truth":"atm support","prediction":"card acceptance","confidence":0.85}
+{"text":"i withdrew cash and dont see it reflected on the balance","ground_truth":"pending cash withdrawal","prediction":"balance not updated after cash withdrawal","confidence":0.9}
+{"text":"How long does it take for a top-up?","ground_truth":"pending top up","prediction":"pending top up","confidence":0.85}
+{"text":"I want to know where my money comes from.","ground_truth":"verify source of funds","prediction":"verify source of funds","confidence":0.9}
+{"text":"Why am I getting declines when trying to make a purchase online?","ground_truth":"declined transfer","prediction":"declined card payment","confidence":0.9}
+{"text":"Is there a fee for european bank cards?","ground_truth":"top up by card charge","prediction":"supported cards and currencies","confidence":0.85}
+{"text":"Why couldn't I get cash from an ATM?","ground_truth":"declined cash withdrawal","prediction":"declined cash withdrawal","confidence":0.85}
+{"text":"I can't activate my card?","ground_truth":"activate my card","prediction":"activate my card","confidence":0.9}
+{"text":"Why are you charging fees on cash withdrawals? I went to withdraw some money earlier today after buying groceries. There's a fee that wasn't there before.","ground_truth":"cash withdrawal charge","prediction":"cash withdrawal charge","confidence":0.85}
+{"text":"I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here?","ground_truth":"change pin","prediction":"change pin","confidence":0.95}
+{"text":"Can you tell me how do I get a card?","ground_truth":"order physical card","prediction":"getting physical card","confidence":0.85}
+{"text":"My card won't let me withdraw money.","ground_truth":"declined cash withdrawal","prediction":"declined cash withdrawal","confidence":0.85}
+{"text":"Why has my top-up been reverted?","ground_truth":"top up reverted","prediction":"top up reverted","confidence":0.95}
+{"text":"Is there a way to top up using my Apple Watch?","ground_truth":"apple pay or google pay","prediction":"topping up by card","confidence":0.85}
+{"text":"what can I do if I got my American Express in Apple Bay but top up is not working?","ground_truth":"apple pay or google pay","prediction":"topping up by card","confidence":0.85}
+{"text":"I keep checking to see if I've received a refund that I requested from a seller, but I'm not seeing the refund. I need you to help me get the refund.","ground_truth":"Refund not showing up","prediction":"Refund not showing up","confidence":0.95}
+{"text":"What is the process to activate a card","ground_truth":"activate my card","prediction":"activate my card","confidence":0.95}
+{"text":"I already got my item but just got my money back","ground_truth":"reverted card payment?","prediction":"Refund not showing up","confidence":0.85}
+{"text":"How can I create another card linked to this account?","ground_truth":"getting spare card","prediction":"card linking","confidence":0.85}
+{"text":"I haven't received my PIN yet. Do I need to get it from you?","ground_truth":"get physical card","prediction":"card arrival","confidence":0.85}
+{"text":"Can I cash deposit to top up my account","ground_truth":"top up by cash or cheque","prediction":"top up by cash or cheque","confidence":0.85}
+{"text":"What happened to my top-up? I think it was cancelled.","ground_truth":"top up reverted","prediction":"top up reverted","confidence":0.85}
+{"text":"I would like to activate my card.","ground_truth":"activate my card","prediction":"activate my card","confidence":0.95}
+{"text":"My cash withdrawal isnt showing on my account","ground_truth":"pending cash withdrawal","prediction":"balance not updated after cheque or cash deposit","confidence":0.85}
+{"text":"I'm trying to purchase crypto via the app. I haven't been able to get it to go through. Am I doing something wrong?","ground_truth":"beneficiary not allowed","prediction":"declined card payment","confidence":0.85}
+{"text":"Hi. A couple hours ago I make a transfer from my UK bank account, but it hasn't shown up. Please, would you see what the delay is?","ground_truth":"balance not updated after bank transfer","prediction":"transfer not received by recipient","confidence":0.9}
+{"text":"Can you tell me why I was charged to withdraw cash?","ground_truth":"cash withdrawal charge","prediction":"cash withdrawal charge","confidence":0.9}
+{"text":"I need to transfer funds from China and quick expedition is crucial. Approximately how long does it take for a transfer from China to go through?","ground_truth":"transfer timing","prediction":"transfer timing","confidence":0.95}
+{"text":"My money is all gone. What ways are okay to add money to my account?","ground_truth":"transfer into account","prediction":"topping up by card","confidence":0.85}
+{"text":"Is it acceptable to use either Visa or Mastercard?","ground_truth":"visa or mastercard","prediction":"visa or mastercard","confidence":0.85}
+{"text":"I'd like to transfer funds using my credit card.","ground_truth":"topping up by card","prediction":"topping up by card","confidence":0.85}
+{"text":"The app shows a withdrawal that I did not make or authorize.","ground_truth":"cash withdrawal not recognised","prediction":"declined cash withdrawal","confidence":0.85}
+{"text":"Can you tell me more info about virtual disposable cards?","ground_truth":"get disposable virtual card","prediction":"get disposable virtual card","confidence":0.85}
+{"text":"Help! I think someone has made a cash withdrawal with my card!","ground_truth":"cash withdrawal not recognised","prediction":"card swallowed","confidence":0.85}
+{"text":"why did i get declined transfer","ground_truth":"declined transfer","prediction":"declined transfer","confidence":0.9}
+{"text":"I got less cash because of the exchange rate.","ground_truth":"wrong exchange rate for cash withdrawal","prediction":"wrong exchange rate for cash withdrawal","confidence":0.85}
+{"text":"After reviewing my charges, I see I was charged a fee for a transfer I did, why?","ground_truth":"transfer fee charged","prediction":"transfer fee charged","confidence":0.9}
+{"text":"I have a card that expires in the coming month, do I have to specifically ask for the updated card?","ground_truth":"card about to expire","prediction":"card about to expire","confidence":0.9}
+{"text":"A duplicated payment was made for something.","ground_truth":"transaction charged twice","prediction":"transaction charged twice","confidence":0.9}
+{"text":"When will the money show in my account?","ground_truth":"transfer timing","prediction":"pending transfer","confidence":0.85}
+{"text":"The exchange rate is incorrect for my payment.","ground_truth":"card payment wrong exchange rate","prediction":"card payment wrong exchange rate","confidence":0.9}
+{"text":"I haven't received my virtual card.","ground_truth":"getting virtual card","prediction":"getting virtual card","confidence":0.9}
+{"text":"Tried using my ATM card earlier at one of your locations for the first time.  It didn't work.  What is going on?","ground_truth":"declined cash withdrawal","prediction":"card not working","confidence":0.95}
+{"text":"It's declining my transfers. Normally this works, but my card is being declined now and I've tried more than once.","ground_truth":"declined transfer","prediction":"declined transfer","confidence":0.85}
+{"text":"What do you use disposable cards on?","ground_truth":"get disposable virtual card","prediction":"getting disposable card","confidence":0.85}
+{"text":"Would you please unblock my pin? I don't know why, but it's blocked.","ground_truth":"pin blocked","prediction":"pin blocked","confidence":0.95}
+{"text":"My balance doesn't show my deposit.","ground_truth":"balance not updated after cheque or cash deposit","prediction":"balance not updated after bank transfer","confidence":0.85}
+{"text":"Would it be possible to open up an account for children?","ground_truth":"age limit","prediction":"age limit","confidence":0.85}
+{"text":"I have young kids. Can they use this service?","ground_truth":"age limit","prediction":"age limit","confidence":0.85}
+{"text":"Why is there a fee for getting cash?","ground_truth":"cash withdrawal charge","prediction":"cash withdrawal charge","confidence":0.8}
+{"text":"Do you have info about the card on delivery?","ground_truth":"card arrival","prediction":"card delivery estimate","confidence":0.9}
+{"text":"Salary in GBP has been received. Does it need to be configured into another place?","ground_truth":"receiving money","prediction":"exchange via app","confidence":0.75}
+{"text":"Where do I look for cash top up?","ground_truth":"top up by cash or cheque","prediction":"top up by cash or cheque","confidence":0.85}
+{"text":"I have a transfer waiting.","ground_truth":"pending transfer","prediction":"pending transfer","confidence":0.85}
+{"text":"My transfer has not arrived.","ground_truth":"transfer not received by recipient","prediction":"transfer not received by recipient","confidence":0.85}
+{"text":"Help, the ATM didn't give me all the money I requested","ground_truth":"wrong amount of cash received","prediction":"wrong amount of cash received","confidence":0.9}
+{"text":"I want to deposit my check to top up my account","ground_truth":"top up by cash or cheque","prediction":"top up by cash or cheque","confidence":0.85}
+{"text":"what are limits to top up","ground_truth":"top up limits","prediction":"top up limits","confidence":0.9}
+{"text":"It appears my transfer was declined.","ground_truth":"declined transfer","prediction":"declined transfer","confidence":0.9}
+{"text":"I sent a cheque to you a few days ago and the deposit has yet to appear in my account. I need this money, what is the problem?","ground_truth":"balance not updated after cheque or cash deposit","prediction":"balance not updated after cheque or cash deposit","confidence":0.9}
+{"text":"I've use my accounts all the time to manage my payments for my place abroad that I just got. I now see that I suddenly have new fees.I'm a frequent customer, so why are you charging me new fees instead of rewarding me?","ground_truth":"transfer fee charged","prediction":"extra charge on statement","confidence":0.85}
+{"text":"Could you tell me about the restrictions that are on the disposable cards?","ground_truth":"disposable card limits","prediction":"disposable card limits","confidence":0.85}
+{"text":"Where can I get money from my card?","ground_truth":"atm support","prediction":"cash withdrawal not recognised","confidence":0.85}
+{"text":"Please help me with my card payments which keeps getting reverted whenever i do online shopping. I am having this problem since last two weeks.","ground_truth":"reverted card payment?","prediction":"reverted card payment?","confidence":0.85}
+{"text":"Why do we need to verify top-ups?","ground_truth":"verify top up","prediction":"verify top up","confidence":0.85}
+{"text":"What do you use to figure out the exchange rate for the card?","ground_truth":"exchange rate","prediction":"exchange rate","confidence":0.85}
+{"text":"I thought you guys offered free transfers. Why was I charged?","ground_truth":"transfer fee charged","prediction":"transfer fee charged","confidence":0.87}
+{"text":"I don't have my mobile device and am unable to make the payment because I forgot my details.","ground_truth":"lost or stolen phone","prediction":"passcode forgotten","confidence":0.9}
+{"text":"Do you accept credit cards from the US","ground_truth":"supported cards and currencies","prediction":"supported cards and currencies","confidence":0.85}
+{"text":"I'm not sure why my payment has been declined? Please tell me why, I thought it was all good.","ground_truth":"declined card payment","prediction":"declined card payment","confidence":0.95}
+{"text":"The amount of exchange was not correct for the item i bought.","ground_truth":"card payment wrong exchange rate","prediction":"card payment wrong exchange rate","confidence":0.85}
+{"text":"I need to hold money, what currencies can I use?","ground_truth":"fiat currency support","prediction":"fiat currency support","confidence":0.85}
+{"text":"Where can I change my PIN?","ground_truth":"change pin","prediction":"change pin","confidence":0.95}
+{"text":"I made a mistake when making my last transfer, please cancel before it goes thru.","ground_truth":"cancel transfer","prediction":"cancel transfer","confidence":0.9}
+{"text":"how do you get exchange rates","ground_truth":"exchange rate","prediction":"exchange rate","confidence":0.9}
+{"text":"I moved and need to change my personal information.","ground_truth":"edit personal details","prediction":"edit personal details","confidence":0.95}
+{"text":"Please help! I need a refund on a transaction on something I bought and I need the refund right away!","ground_truth":"request refund","prediction":"request refund","confidence":0.95}
+{"text":"I think my card is being used by someone else to make purchases that I didn't authorize! I checked my account and see that there have been quite a few purchases over the last two days that I have no idea where they came from. We need to freeze my card now! And I need to find a way to get my money back.","ground_truth":"card payment not recognised","prediction":"compromised card","confidence":0.95}
+{"text":"why isnt my cash withdrawal showing","ground_truth":"pending cash withdrawal","prediction":"balance not updated after cheque or cash deposit","confidence":0.8}
+{"text":"What do I do if the machine rejects my card?","ground_truth":"card not working","prediction":"card not working","confidence":0.9}
+{"text":"I would like to cancel a transfer...is this possible?","ground_truth":"cancel transfer","prediction":"cancel transfer","confidence":0.95}
+{"text":"I tried to use my debit card, but the payment did not work.","ground_truth":"reverted card payment?","prediction":"declined card payment","confidence":0.85}
+{"text":"I completed a transfer that isn't showing up on my account.","ground_truth":"balance not updated after bank transfer","prediction":"transfer not received by recipient","confidence":0.9}
+{"text":"In the exchange and holding, what fiat is allowed?","ground_truth":"fiat currency support","prediction":"fiat currency support","confidence":0.85}
+{"text":"You have declined my  payment.","ground_truth":"declined card payment","prediction":"declined card payment","confidence":0.85}
+{"text":"Hi, Today i have tried to make payment by my new card, but payment got declined many times. I am very disappointed, please look into this.","ground_truth":"declined card payment","prediction":"declined card payment","confidence":0.95}
